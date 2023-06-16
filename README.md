@@ -2,4 +2,4 @@
 簡易なスケジュールアプリ
 
 ## Overview
-*design selection controls such as dropbox, radio buttons, checkboxes, toggle switches, and dropdown lists
+* design selection controls such as dropbox, radio buttons, checkboxes, toggle switches, and dropdown lists
