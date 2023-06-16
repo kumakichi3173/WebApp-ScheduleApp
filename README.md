@@ -1,5 +1,8 @@
 # WebApp-ScheduleApp
-簡易なスケジュールアプリ
+A simple schedule app
 
 ## Overview
-* design selection controls such as dropbox, radio buttons, checkboxes, toggle switches, and dropdown lists
+* designing selection controls such as dropbox, radio buttons, checkboxes, toggle switches, and dropdown lists
+* adding calendar function
+* addding botton which adds texts into the table
+* error popup window
