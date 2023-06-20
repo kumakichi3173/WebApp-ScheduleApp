@@ -1,5 +1,5 @@
 # WebApp-ScheduleApp
-A simple schedule app
+A simple schedule app using Bootstrap5
 
 ## Overview
 * designing selection controls such as Dropbox, Radio buttons, Checkboxes, Toggle switches, and Dropdown lists
